@@ -1,9 +1,14 @@
 <?php
+
 namespace App\DTO;
 
 
 
 class UserRegistration
-{ 
-    public function __construct(string $username, string $email)
+{
+    public function __construct(
+        public string $username,
+        public string $email,
+    ) {
+    }
 }
