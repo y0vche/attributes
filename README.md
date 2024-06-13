@@ -17,3 +17,5 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 ## 14. Creating Custom Attributes
 
 ![14. Creating Custom Attributes](<img src="F:\Programming\PHP\Attributes\PHP Attributes 50 Minute Tutorial\Creating Custom Attributes.jpg"/>)
+
+![14. Creating Custom Attributes](<14. Creating Custom Attributes-1.jpg>)
