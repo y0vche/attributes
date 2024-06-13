@@ -13,5 +13,16 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 ## 11. Readonly Properties & Classes
 
 ![11  Readonly Properties   Classes](https://github.com/y0vche/attributes-in-php/assets/70894119/b6864172-2af6-4648-a712-1623b44c596d)
+<<<<<<< HEAD
 =======
 
+=======
+
+## 14. Creating Custom Attributes
+
+![14. Creating Custom Attributes](<14. Creating Custom Attributes-1.jpg>)
+
+## 16. Applying Attributes
+
+![Applying Attributes](<16. Applying Attributes.jpg>)
+>>>>>>> 3dfafc66c0b2d139f92f8638484b62c7710dc671
