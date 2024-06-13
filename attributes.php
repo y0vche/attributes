@@ -1,7 +1,7 @@
 <?php
 
 use App\DTO\UserRegistration;
-use App\Validation\Validator;
+use App\Validation\Rules\Validator;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
@@ -12,5 +12,3 @@ $validator = new Validator();
 $validator->validate($userRegistration);
 
 // $errors = $validator->getErrors();
-
-print_r('hello');
