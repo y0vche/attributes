@@ -17,3 +17,7 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 ## 14. Creating Custom Attributes
 
 ![14. Creating Custom Attributes](<14. Creating Custom Attributes-1.jpg>)
+
+## 16. Applying Attributes
+
+![Applying Attributes](<16. Applying Attributes.jpg>)
