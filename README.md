@@ -25,3 +25,8 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 ## 17. Validate Mechanism
 
 ![Validate Mechanism](<17. Validate Mechanism.JPG>)
+
+
+## 26. Attributes & Interfaces
+
+![Attributes & Interfaces](<26. Attributes & Interfaces.JPG>)
