@@ -1,7 +1,7 @@
 <?php
 
 use App\DTO\UserRegistration;
-use App\Validation\Rules\Validator;
+use App\Validation\Validator;
 
 require_once __DIR__ . '/vendor/autoload.php';
 

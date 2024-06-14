@@ -5,7 +5,7 @@ namespace App\Validation\Rules;
 use Attribute;
 
 #[Attribute]
-class Required extends ValidationRuleInterface
+class Required implements ValidationRuleInterface
 {
     public function getValidator()
     {
