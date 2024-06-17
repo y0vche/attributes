@@ -34,14 +34,14 @@ class Validator
                 // Ask IF the property does not validate
                 if (!$validator->validate($property->getValue($object))) {
 
-                    // Add the property to errors with message
-                    dd($property->getValue($object));
+                    $this->errors[$property->getName()][] = sprintf(
+                        "Ivalid value for'%s' using '%s' validation.",
+                        $property->getName(),
+                        $attribute->getName()
+                    );
                 }
             }
-            // Instantiate PropertyValidator instance using $attribute->getValidator();
-
-            
-            // Add the property to errors with message 
+        dd($this->errors);
 
         }
     }
