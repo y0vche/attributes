@@ -35,6 +35,7 @@ class Validator
                 if (!$validator->validate($property->getValue($object))) {
 
                     // Add the property to errors with message
+                    dd($property->getValue($object));
                 }
             }
             // Instantiate PropertyValidator instance using $attribute->getValidator();
