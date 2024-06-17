@@ -3,12 +3,14 @@
 namespace App\Validation\Rules;
 
 use Attribute;
+use App\Validation\Validators\ValidatorInterface;
 
 #[Attribute]
 class Required implements ValidationRuleInterface
 {
-    public function getValidator()
+    public function getValidator(): ValidatorInterface
     {
         // Implement getValidator() method.
+        dd('asdfdsf');
     }
 }
