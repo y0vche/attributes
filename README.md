@@ -16,17 +16,23 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 
 ## 14. Creating Custom Attributes
 
-![14. Creating Custom Attributes](<14. Creating Custom Attributes-1.jpg>)
+![14  Creating Custom Attributes](https://github.com/y0vche/attributes/assets/70894119/dab477b7-6a55-44ed-849f-081203e6844e)
 
 ## 16. Applying Attributes
 
-![Applying Attributes](<16. Applying Attributes.jpg>)
+![16  Applying Attributes](https://github.com/y0vche/attributes/assets/70894119/5c6699c2-0017-40c3-bd69-a956f8dfcbce)
 
 ## 17. Validate Mechanism
 
-![Validate Mechanism](<17. Validate Mechanism.JPG>)
+![17  Validate Mechanism](https://github.com/y0vche/attributes/assets/70894119/05338220-5cf7-452e-8e74-817e4e5916d8)
 
 
 ## 26. Attributes & Interfaces
 
-![Attributes & Interfaces](<26. Attributes & Interfaces.JPG>)
+![26  Attributes   Interfaces](https://github.com/y0vche/attributes/assets/70894119/9ece1309-674e-4437-b01e-4f29d35179b4)
+
+## 34. Instantiating Attributes
+![34  Instantiating Attributes](https://github.com/y0vche/attributes/assets/70894119/05080dad-8f61-480d-82d0-6827b134bdfa)
+
+## 40. Custom Validator Classes
+![40  Custom Validator Classes](https://github.com/y0vche/attributes/assets/70894119/8a2e7ab8-cf77-4cea-8b89-d60dbd92b6bc)
