@@ -35,4 +35,4 @@ Ref.: https://www.youtube.com/watch?v=oSo4xbP6ZYo
 ![34  Instantiating Attributes](https://github.com/y0vche/attributes/assets/70894119/05080dad-8f61-480d-82d0-6827b134bdfa)
 
 ## 40. Custom Validator Classes
-![40  Custom Validator Classes](https://github.com/y0vche/attributes/assets/70894119/8a2e7ab8-cf77-4cea-8b89-d60dbd92b6bc)
+![40  Custom Validator Classes](https://github.com/y0vche/attributes/assets/70894119/6f4c2e7e-dc21-48f7-b265-b89e6d61c3b6)
